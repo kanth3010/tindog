@@ -1,0 +1,171 @@
+
+h1{
+	font-family:"Montserrat" !important;
+	size: 3 rem !important;
+	line-height: 1.9;
+
+   }
+
+#title{
+	background-color: #ff4c68;
+}
+
+#title h1{
+	color: white;
+}
+
+.nav-item{
+	font-family:"Ubuntu" ;
+	font-size: 1.2rem;
+	padding: 2.0rem;
+}
+.navbar-brand {
+	font-family: 'Ubuntu'!important;
+	font-size: 2.5 rem !important;
+	font-weight: bold;
+	
+}
+.navbar{
+	padding:0 0 4.5rem !important;
+}
+
+
+.container-fluid{
+	
+	padding: 3% 15% !important;
+}
+
+.down_button{
+	margin: 5% 3% 5% 0%;
+}
+.phone_dog{
+		width: 60% !important;
+		transform: rotate(25deg);
+		position: absolute;
+		
+	}
+.icon{
+	color:#ef8172 ;
+	margin: 0%;
+	padding-top: 10%;
+	padding-left: 42%;
+	width: 50;
+}
+
+.icon:hover{
+	color: #ff4c68;
+}
+h3 {
+	font-family:"Montserrat" !important;
+	size: 1.5 rem !important;
+	line-height: 1.0;
+	padding-top: 10%;
+
+
+	margin: 0%;
+	text-align: center;
+}
+
+h2 {
+	font-family: "Montserrat";
+	font-size: 2.5rem !important;
+	line-height: 1.5 !important;
+}
+.second_side{
+	text-align: center;
+	color: #8f8f8f;
+	size: 1.5rem;
+
+}
+#features{
+	padding: 7% 15%;
+	background-color:white;
+	position: relative;
+	z-index: 1;
+}
+
+#testimonials {
+	
+		text-align: center;
+		background-color: #ef8172;
+		color: white;
+}
+.testimonial_image{
+	width: 10% ;
+	border-radius: 100%;
+	margin:20px;
+}
+#press{
+	background-color: #ef8172;
+	text-align: center;
+	padding-bottom: 3%;
+}
+
+.brand{
+	width: 15%;
+	margin: 20px 20px 15px;
+}
+.carousel-item{
+	padding: 7% 15%;
+
+}
+#pricing{
+	text-align: center;
+	padding: 100px;
+}
+.alt_button{
+	margin-top: 10% !important;
+}
+.alt_button1{
+	margin-top: 5.5% !important;
+}
+.pricing-col{
+	padding: 3% 10%;
+}
+
+@media (max-width:1028px){
+	.phone_dog{
+		position:static !important;
+		transform: rotate(0deg);
+	}
+	#title{
+		text-align: center;
+	}
+}
+
+#cta{
+	background-color: #ff4c68;
+	padding:7% 14%;
+	text-align: center;
+	
+}
+
+#cta h3{
+	
+	
+	color: white;
+	font-family:"Montserrat" !important;
+	font-size: 3rem !important;
+	line-height: 1.9;
+	
+}
+
+#features-pad{
+	margin:15% 13% 5% 0% ;
+}
+
+#footer{
+	background-color: #fff;
+	padding:7% 14%;
+	text-align: center;
+}
+#footer p{
+	padding-top: 10px !important;
+	color: grey;
+}
+.end-icon{
+	padding: 1.5% !important;
+}
+
+	
+
